@@ -1,2 +1,2 @@
 # YouAreAnIdiot
-The safe version port of the legendary infamous YouAreAnIdiot JS Trojan ☺ ☺ ☺.
+The safe version port of the infamous YouAreAnIdiot JS Trojan ☺ ☺ ☺.
